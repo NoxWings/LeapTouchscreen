@@ -1,2 +1,3 @@
 pypiwin32==219
+numpy==1.11.0
 PyUserInput==0.1.10
